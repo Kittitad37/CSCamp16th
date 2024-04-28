@@ -12,8 +12,8 @@ public class lap4_2 {
             return max;
         }
         if(arr[n] >= arr[max]){
-            return max = n;
+            return findMaxInArray(n+1, max);
         }
-        return findMaxInArray(n+1, max);
+        return 
     }
 }
