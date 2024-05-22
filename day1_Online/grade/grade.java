@@ -1,3 +1,4 @@
+package day1_Online.grade;
 import java.util.Scanner;
 
 public class grade {
